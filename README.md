@@ -1,7 +1,7 @@
 # upc-si431-eb
 
 
-The repository contains a simple Java application which outputs the string
-"Hello world!" and is accompanied by a couple of unit tests to check that the
-main application works as expected. The results of these tests are saved to a
-JUnit XML report.
+El repositorio contiene una aplicación Java simple que genera la cadena
+"¡Hola Mundo!" y va acompañado de un par de pruebas unitarias para comprobar su funcionamiento.
+La aplicación principal funciona como se esperaba. Los resultados de estas pruebas se guardan en un
+Informe XML JUnit.
